@@ -1,5 +1,5 @@
 # Play around with mouseover colors!
-# necessary files in master/images
+# necessary files in branch "images"
 
 from Tkinter import *
 import os
